@@ -4,6 +4,7 @@ authors:
 - family-names: Nagy
   given-names: Ben
   orcid: https://orcid.org/0000-0002-5214-7595
-title: "(Not) Understanding Latin Poetic Style with Deep Learning"
+title: "Preprint: (Not) Understanding Latin Poetic Style with Deep Learning"
 version: 1.0.0
+type: dataset
 date-released: 2022-12-4
