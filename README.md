@@ -12,7 +12,23 @@ LaTeX 'ceur' style modified from the CEUR Workshop [template](paper/ceurart.cls)
 
 ## ABSTRACT
 
-TBD
+This article summarizes some mostly unsuccessful attempts to understand
+authorial style by examining the attention of various neural networks (LSTMs and
+CNNs) trained on a corpus of classical Latin verse that has been encoded to
+include sonic and metrical features. Carefully configured neural networks are
+shown to be extremely strong authorship classifiers, so it is hoped that they
+might therefore teach 'traditional' readers something about how the authors
+differ in style. Sadly their reasoning is, so far, inscrutable. While the
+overall goal has not yet been reached, this work reports some useful findings in
+terms of effective ways to encode and embed verse, the relative strengths and
+weaknesses of the neural network families, and useful (and not so useful)
+techniques for designing and inspecting NN models in this domain. This article
+suggests that, for poetry, CNNs are better choices than LSTMs---they train more
+quickly, have equivalent accuracy, and (potentially) offer better
+interpretability. Based on a great deal of experimentation, it also suggests
+that simple, trainable embeddings are more effective than domain-specific
+schemes, and stresses the importance of techniques to reduce overfitting, like
+dropout and batch normalization.
 
 ## Citation
 
