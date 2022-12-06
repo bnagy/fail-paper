@@ -1,14 +1,19 @@
 # fail-paper [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
 
-LaTeX and figures for the preprint '{(Not) Understanding Latin Poetic Style with Deep Learning'.
+LaTeX and figures for the preprint '{(Not) Understanding Latin Poetic Style with
+Deep Learning'.
 
 The compiled [preprint](paper/fail.pdf) is also included.
 
 Further information will be added if the paper is accepted for publication.
 
-*WARNING* This is a preprint, which has not been peer reviewed. The final paper will almost certainly include changes, which can sometimes be quite substantial. The results listed are also subject to change. For bonus points, the repro code is all included--prove me wrong!
+*WARNING* This is a preprint, which has not been peer reviewed. Any final paper
+will almost certainly include changes, which can sometimes be quite substantial.
+The results listed are also subject to change. For bonus points, the repro code
+is all included--prove me wrong!
 
-LaTeX 'ceur' style modified from the CEUR Workshop [template](paper/ceurart.cls) (see copyrights etc)
+LaTeX 'ceur' style modified from the CEUR Workshop [template](paper/ceurart.cls)
+(see copyrights etc)
 
 ## ABSTRACT
 
@@ -32,7 +37,8 @@ dropout and batch normalization.
 
 ## Citation
 
-If you are also playing the Fun Academia Game, please help me refill my Academia Hearts.
+If you are also playing the Fun Academia Game, please help me refill my Academia
+Hearts.
 
 ```
 @article{nagy_fail_2022,
