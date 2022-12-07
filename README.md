@@ -3,6 +3,8 @@
 LaTeX and figures for the preprint '(Not) Understanding Latin Poetic Style with
 Deep Learning'.
 
+![poster summarizing the project](fail-poster.jpg?raw=true "The Poster")
+
 The compiled [preprint](paper/fail.pdf) is also included.
 
 Further information will be added if the paper is accepted for publication.
