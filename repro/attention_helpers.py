@@ -5,7 +5,7 @@ import numpy as np  # type: ignore
 import pandas as pd  # type: ignore
 
 from bs4.element import Tag  # type: ignore
-from PIL import Image, ImageDraw, ImageFont, ImageEnhance  # type: ignore
+from PIL import Image, ImageDraw, ImageFont  # type: ignore
 from typing import Iterable, Sequence
 
 from mqdq import rhyme, rhyme_classes  # type: ignore
