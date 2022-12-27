@@ -7,12 +7,12 @@ Deep Learning'.
 
 The compiled [preprint](paper/fail.pdf) is also included.
 
-Further information will be added if the paper is accepted for publication.
+Further information will be added if the paper is ever submitted (and accepted)
+for publication. Right now it's kind of not working :/
 
 *WARNING* This is a preprint, which has not been peer reviewed. Any final paper
 will almost certainly include changes, which can sometimes be quite substantial.
-The results listed are also subject to change. For bonus points, the repro code
-is all included--prove me wrong!
+The results listed are also subject to change. 
 
 LaTeX 'ceur' style modified from the CEUR Workshop [template](paper/ceurart.cls)
 (see copyrights etc)
